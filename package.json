@@ -1,6 +1,6 @@
 {
   "name": "j2class",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "auto generate js-class from json or swagger-doc",
   "main": "index.js",
   "scripts": {
