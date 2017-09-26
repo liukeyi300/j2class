@@ -1,0 +1,23 @@
+{
+  "name": "j2class",
+  "version": "1.0.0",
+  "description": "auto generate js-class from json or swagger-doc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liukeyi300/j2class.git"
+  },
+  "keywords": [
+    "js-class",
+    "auto"
+  ],
+  "author": "liukeyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liukeyi300/j2class/issues"
+  },
+  "homepage": "https://github.com/liukeyi300/j2class#readme"
+}
