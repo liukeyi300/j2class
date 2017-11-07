@@ -1,7 +1,6 @@
 {
   "name": "j2class",
-  "bin": {
-  },
+  "bin": {},
   "version": "0.1.0",
   "description": "auto generate js-class from json or swagger-doc",
   "main": "index.js",
@@ -21,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/liukeyi300/j2class/issues"
   },
-  "homepage": "https://github.com/liukeyi300/j2class#readme"
+  "homepage": "https://github.com/liukeyi300/j2class#readme",
+  "devDependencies": {
+    "ts-loader": "^3.1.1",
+    "typescript": "^2.6.1",
+    "webpack": "^3.8.1"
+  }
 }
